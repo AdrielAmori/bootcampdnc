@@ -270,7 +270,7 @@ body{
         margin: 0px;
     }
 
-    /* Section*/
+    /* Section */
     section h1{
         font-size: 38px;
     }
@@ -290,4 +290,13 @@ body{
         font-size: 17px;
     }
 
+    /* Footer */
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .endereço{
+        width: 95%;
+        margin-bottom: 20px;
+    }
 }
