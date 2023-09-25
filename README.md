@@ -1,2 +1,2 @@
 # bootcampdnc
- projeto de landing page do Bootcamp DND
+ projeto de landing page do Bootcamp DNC
