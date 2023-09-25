@@ -295,8 +295,8 @@ body{
         flex-direction: column;
     }
 
-    footer .endereço{
+    footer .endereco{
         width: 95%;
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
 }
